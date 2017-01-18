@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  AxSocialTableView
+
+  Created by Maxime Charruel on 17/01/2017.
+  Copyright © 2017 Maxime Charruel. All rights reserved.
+*/
+
+"years_ago" = "%@ years ago";
+"year_ago" = "%@ year ago";
+"last_year" = "Last year";
+"months_ago" = "%@ months ago";
+"month_ago" = "%@ month ago";
+"last_month" = "Last month";
+"weeks_ago" = "%@ weeks ago";
+"week_ago" = "%@ week ago";
+"last_week" = "Last week";
+"days_ago" = "%@ days ago";
+"day_ago" = "%@ day ago";
+"last_day" = "Yesterday";
+"hours_ago" = "%@ hours ago";
+"hour_ago" = "%@ hour ago";
+"last_hour" = "An hour ago";
+"minutes_ago" = "%@ minutes ago";
+"minute_ago" = "%@ minute ago";
+"last_minute" = "A minute ago";
+"seconds_ago" = "%@ seconds ago";
+"just_now" = "Just now";
